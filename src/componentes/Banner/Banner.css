@@ -1,0 +1,9 @@
+.banner{
+    background-color: aqua;
+    padding: 30px;
+}
+
+.banner img{
+    max-width: 100%; /**responsividade*/
+} 
+

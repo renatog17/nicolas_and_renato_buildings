@@ -1,7 +1,11 @@
 import './Banner.css'
+
 const Banner = () =>{
     return(
-        <div></div>
+        <div className="banner">
+            <img src="../images/Banner-lego.png" alt="Lego Banner"></img>
+
+        </div>
     )
 }
 
