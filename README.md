@@ -1,5 +1,5 @@
 # Nicolas and Renato Buildings
-This repository is project of a social network.
+This repository a is project of a social network.
 This social networks is from adults and childrens.
 In this social network, would be possible to share buildings and meet new friends.
 
